@@ -37,14 +37,6 @@ Democratizar o acesso a análises de segurança de alta qualidade, fornecendo:
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </p>
 
-## 📚 Repositórios em Destaque
-
-<div align="center">
-
-[![Chatbot Card](https://github-readme-stats.vercel.app/api/pin/?username=Sentrybots&repo=Chatbot-Sentrybots&theme=dark)](https://github.com/Sentrybots/Chatbot-Sentrybots)
-
-</div>
-
 ## 🤝 Contribua com o Projeto
 
 O Sentrybots é um projeto em constante evolução, e estamos sempre abertos a contribuições da comunidade. Se você tem interesse em segurança de aplicações e quer fazer parte desta iniciativa:
